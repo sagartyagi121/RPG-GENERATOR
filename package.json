@@ -1,0 +1,16 @@
+{
+  "name": "rpg-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plop.js",
+  "scripts": {
+    "plop": "plop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "plop": "^2.7.4"
+  }
+}
