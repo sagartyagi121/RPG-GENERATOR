@@ -10,7 +10,10 @@ Nodejs > 6.0.0
 ## Installation
 ```
 npm install -g rpg-generator
+
+RPGGen 
 ```
+>> Answer all the prompts 
 
 ## Templates
 
