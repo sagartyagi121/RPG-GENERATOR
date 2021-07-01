@@ -48,10 +48,10 @@ const createDirectoryContents = (templatePath, newProjectPath, projectName) => {
   }
 };
 
-const prompt = (lambdaPath, templateDir, name) => new Promise((resolve, reject) => {
+const prompt = (RPGPath, templateDir, name) => new Promise((resolve, reject) => {
   try {
     // Make sure destination folder exists and is a directory
-    const dest = lambdaPath || process.cwd(); // Use current directory as default
+    const dest = RPGPath || process.cwd(); // Use current directory as default
     validateDir(dest);
 
     // Make sure template folder exists and is a directory
