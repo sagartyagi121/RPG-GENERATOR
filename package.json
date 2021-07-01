@@ -1,5 +1,5 @@
 {
-  "name": "RPG-GENERATOR",
+  "name": "rpg-generator",
   "version": "1.0.0",
   "description": "Generate a RPG boilerplate. Make your own personnal templates in a easier way!",
   "scripts": {
