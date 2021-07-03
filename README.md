@@ -60,8 +60,8 @@ If it sets, CLI use `RPG_TEMPLATES_PATH` environment variable as templates direc
 
 | Arguments | Default | Description |
 | ------ | ------ | ------ |
-| RPG_path | Current directory | Path where new Lambda folder should be created |
-| RPG_name |   | Lambda project name |
+| RPG_path | Current directory | Path where new RPG folder should be created |
+| RPG_name |   | RPG project name |
 
 ## Use as API
 
